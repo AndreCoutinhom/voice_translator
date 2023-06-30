@@ -11,7 +11,7 @@ Some studies involving technologies, inventions and innovations that can be usef
 ## Voice Translator
 
 
-This project was based on a video tutorial by @Ai_Austin. On this version, the audio recieves and responds in portuguese instead of spanish. Besides, it uses a updated version of Google Trans API.
+This project was based on a video tutorial by @Ai_Austin. The repository contain files in wich it recieves audio in german, french, japanese and english and responds in portuguese. Besides, it uses a updated version of Google Trans API.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ai_Austin" height="105" width="105" src="https://yt3.ggpht.com/J4hjdNaI2OXGwX8eQ-Ffqf0peCi5frVheHUU2PDFcWfOOR_2FRiLcsUE1l8vh9qYTQPJ0O3pk7U=s176-c-k-c0x00ffffff-no-rj-mo">
