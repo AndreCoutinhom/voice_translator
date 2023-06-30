@@ -1,6 +1,6 @@
 # Corporate Tech
 <div style="display: inline_block"><br>
-  <img align="right" alt="Camila_Farani" height="722" width="534" src="https://lirp.cdn-website.com/6fb84253/dms3rep/multi/opt/camila_sofa-1-640w.png">
+  <img align="right" alt="Camila_Farani" height="250" width="250" src="https://cyberpunk2077.wiki.fextralife.com/file/Cyberpunk-2077/head-start-perk-cyberpunk-2077-wiki-guide.png">
 </div>  
 
 Some studies involving technologies, inventions and innovations that can be useful for corporative environments
