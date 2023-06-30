@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Instalação da biblioteca SpeechRecognition
+# SpeechRecognition
 pip install SpeechRecognition
 
-# Instalação da biblioteca pyttsx3
+# pyttsx3
 pip install pyttsx3
 
-# Instalação da biblioteca langdetect
+# langdetect
 pip install langdetect
 
-# Instalação da biblioteca googletrans (versão específica)
+# googletrans (version 4.0.0)
 pip install --upgrade googletrans==4.0.0-rc1
