@@ -1,6 +1,6 @@
 # Corporate Tech
 <div style="display: inline_block"><br>
-  <img align="center" alt="Head_Start" height="300" width="300" src="https://cyberpunk2077.wiki.fextralife.com/file/Cyberpunk-2077/head-start-perk-cyberpunk-2077-wiki-guide.png">
+  <img align="center" alt="Head_Start" height="300" width="300" src="https://static.wikia.nocookie.net/cyberpunk/images/f/f4/Hacking_Area_09_Perk_2_Head_Start.png/revision/latest?cb=20220416211111">
 </div>  
 
 ###
