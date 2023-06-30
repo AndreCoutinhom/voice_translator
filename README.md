@@ -1,11 +1,15 @@
 # Corporate Tech
 <div style="display: inline_block"><br>
-  <img align="right" alt="Camila_Farani" height="250" width="250" src="https://cyberpunk2077.wiki.fextralife.com/file/Cyberpunk-2077/head-start-perk-cyberpunk-2077-wiki-guide.png">
+  <img align="center" alt="Head_Start" height="300" width="300" src="https://cyberpunk2077.wiki.fextralife.com/file/Cyberpunk-2077/head-start-perk-cyberpunk-2077-wiki-guide.png">
 </div>  
 
+###
+
 Some studies involving technologies, inventions and innovations that can be useful for corporative environments
+##
 
 ## Voice Translator
+
 
 This project was based on a video tutorial by @Ai_Austin. On this version, the audio recieves and responds in portuguese instead of spanish. Besides, it uses a updated version of Google Trans API.
 
