@@ -1,6 +1,6 @@
 # Corporate Tech
 <div style="display: inline_block"><br>
-  <img align="center" alt="Head_Start" height="300" width="300" src="https://static.wikia.nocookie.net/cyberpunk/images/f/f4/Hacking_Area_09_Perk_2_Head_Start.png/revision/latest?cb=20220416211111">
+  <img align="center" alt="Head_Start" height="255" width="255" src="https://static.wikia.nocookie.net/cyberpunk/images/f/f4/Hacking_Area_09_Perk_2_Head_Start.png/revision/latest?cb=20220416211111">
 </div>  
 
 ###
