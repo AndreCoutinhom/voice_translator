@@ -19,6 +19,17 @@ Published in 2023 march 16th by @Ai_Austin, "Create an AI Voice Translator in 4 
 
 ###
 
+The original AI_Austin's code is set as shown below:
+
+``` python
+
+
+
+```
+
+
+###
+
 To watch the video, click on the Youtube rectangular red box below:
 
 <div style="display: inline_block"><br>
@@ -32,8 +43,8 @@ To watch the video, click on the Youtube rectangular red box below:
 There were barely none different coding structure between mine's and Austin's. In fact, the whole code was developed by watching Austin's tutorial. However, following some researches and Chat GPT's orientations through some issues I had to deal with, like code not working, bugs and syntax errors; I couldn't rely entirely on the tutorial, since some of the indicated libraries were not fully updated by the time I wrote the code myself, especially the Google trans API, responsible for the translation algorithm. That's why, on this repository, I have committed a Shell structured prompt list containing the updated version of the Google Trans API as followed below: 
 
 ```shell
-
-
+pip install googletrans-py
+pip install --upgrade googletrans==4.0.0-rc1
 ```
 Besides that, AI_Austin's tutorial has a truly functional code and a much valid programming logic.
 
