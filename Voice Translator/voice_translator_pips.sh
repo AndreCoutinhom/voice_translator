@@ -10,4 +10,5 @@ pip install pyttsx3
 pip install langdetect
 
 # googletrans (version 4.0.0)
+pip install googletrans-py
 pip install --upgrade googletrans==4.0.0-rc1
