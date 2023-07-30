@@ -80,9 +80,9 @@ while True:
 To watch the video, click on the Youtube rectangular red box below:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ai_Austin" height="350" width="350" src="https://yt3.googleusercontent.com/BIfx2QyabFvmF0KWynripygJZFq8buzPidi0VhXE3BGg-g1Xgzug4j813WiXWyhLB7LDmdyq9Gw=s900-c-k-c0x00ffffff-no-rj">
+  <img align="center" alt="Ai_Austin" height="250" width="250" src="https://yt3.googleusercontent.com/BIfx2QyabFvmF0KWynripygJZFq8buzPidi0VhXE3BGg-g1Xgzug4j813WiXWyhLB7LDmdyq9Gw=s900-c-k-c0x00ffffff-no-rj">
   
-  <a href="https://youtu.be/oMOfN13Py84" target="_blank"><img align="center" height="95" width="350" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://youtu.be/oMOfN13Py84" target="_blank"><img align="center" height="70" width="250" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div> 
 
 ## Differences between codes 👨‍💻
