@@ -1,5 +1,5 @@
 <h1 align="center">
-Voice Translator 🗣️
+Voice Translator 
 </h1>
 
 <h1 align="center">
