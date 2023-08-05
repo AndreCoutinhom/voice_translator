@@ -77,7 +77,7 @@ while True:
 
 ###
 
-To watch the video, click on the Youtube rectangular red box below:
+To watch the original tutorial video, click on the Youtube rectangular red box below:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ai_Austin" height="250" width="250" src="https://yt3.googleusercontent.com/BIfx2QyabFvmF0KWynripygJZFq8buzPidi0VhXE3BGg-g1Xgzug4j813WiXWyhLB7LDmdyq9Gw=s900-c-k-c0x00ffffff-no-rj">
