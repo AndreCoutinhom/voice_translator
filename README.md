@@ -98,3 +98,11 @@ Besides that, AI_Austin's tutorial has a truly functional code and a much valid 
 ## Innovative Potentials 🧠
 
 On a bright future, I would like to investigate ways to use this kind of software into corporate tech solutions. I imagine a device with an audio and visual interface that can be used to instantly translate what people are saying. This innovative solution can bring wonders for international relationships professionals.
+
+## Austin Dobbins Github
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ai_Austin_Github" height="250" width="250" src="https://avatars.githubusercontent.com/u/128954893?v=4">
+  
+  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="70" width="250" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a>
+</div> 
