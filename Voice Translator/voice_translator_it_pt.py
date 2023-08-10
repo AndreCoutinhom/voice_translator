@@ -24,14 +24,14 @@ while True:
         # translate speech to English if detected language is Spanish
         if input_language == "pt":
             translation = translator.translate(text, dest='it')
-            print(f"Translated to English: {translation.text}")
+            print(f"Translated to Italian: {translation.text}")
             # speak the translated text
             tts.say(translation.text)
             tts.runAndWait()
         # translate speech to Spanish if detected language in English
         elif input_language == "it":
             translation = translator.translate(text, dest='pt')
-            print(f"Translated to Spanish: {translation.text}")
+            print(f"Translated to Portuguese: {translation.text}")
             # speak the translated text
             tts.say(translation.text)
             tts.runAndWait()
