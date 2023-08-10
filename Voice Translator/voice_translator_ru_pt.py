@@ -22,14 +22,14 @@ while True:
         # recognize speech using Google Speech Recognition 
         text = r.recognize_google(audio)
         input_language = detect(text)
-        # translate speech to English if detected language is Spanish
+        
         if input_language == "pt":
             translation = translator.translate(text, dest='ru')
             print(f"Translated to Russian: {translation.text}")
             # speak the translated text
             tts.say(translation.text)
             tts.runAndWait()
-        # translate speech to Spanish if detected language in English
+            
         elif input_language == "ru":
             translation = translator.translate(text, dest='pt')
             print(f"Translated to Portuguese: {translation.text}")
