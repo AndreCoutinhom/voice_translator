@@ -2,6 +2,7 @@
 Voice Translator 
 </h1>
 
+
 <h1 align="center">
   <img align="center" alt="lab" height="70" width="70" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
 
