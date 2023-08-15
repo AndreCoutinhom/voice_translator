@@ -77,12 +77,13 @@ while True:
 
 ###
 
-To watch the original tutorial video, click on the Youtube rectangular red box below:
+## Austin Dobbins' Github and Youtube Channel
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ai_Austin" height="250" width="250" src="https://yt3.googleusercontent.com/BIfx2QyabFvmF0KWynripygJZFq8buzPidi0VhXE3BGg-g1Xgzug4j813WiXWyhLB7LDmdyq9Gw=s900-c-k-c0x00ffffff-no-rj">
-  
-  <a href="https://youtu.be/oMOfN13Py84" target="_blank"><img align="center" height="70" width="250" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <img align="center" alt="Ai_Austin" height="250" width="250" src="https://avatars.githubusercontent.com/u/128954893?v=4">
+
+  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="37" width="125" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a>
+  <a href="https://www.youtube.com/@Ai_Austin" target="_blank"><img align="center" height="33" width="125" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div> 
 
 ## Differences between codes 👨‍💻
@@ -99,10 +100,3 @@ Besides that, AI_Austin's tutorial has a truly functional code and a much valid 
 
 On a bright future, I would like to investigate ways to use this kind of software into corporate tech solutions. I imagine a device with an audio and visual interface that can be used to instantly translate what people are saying. This innovative solution can bring wonders for international relationships professionals.
 
-## Austin Dobbins' Github
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ai_Austin_Github" height="250" width="250" src="https://avatars.githubusercontent.com/u/128954893?v=4">
-  
-  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="70" width="250" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a>
-</div> 
