@@ -82,7 +82,7 @@ while True:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ai_Austin" height="250" width="250" src="https://avatars.githubusercontent.com/u/128954893?v=4">
 
-  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="37" width="123" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a>
+  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="37" width="123" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple" target="_blank"></a>
   <a href="https://www.youtube.com/@Ai_Austin" target="_blank"><img align="center" height="33" width="123" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div> 
 
