@@ -74,6 +74,7 @@ while True:
 
 ```
 
+##
 
 ###
 
@@ -94,6 +95,8 @@ There were barely none different coding structure between mine's and Austin's. I
 pip install googletrans-py
 pip install --upgrade googletrans==4.0.0-rc1
 ```
+##
+
 Besides that, AI_Austin's tutorial has a truly functional code and a much valid programming logic.
 
 ## Innovative Potentials 🧠
