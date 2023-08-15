@@ -99,6 +99,14 @@ pip install --upgrade googletrans==4.0.0-rc1
 
 Besides that, AI_Austin's tutorial has a truly functional code and a much valid programming logic.
 
+## Important notes 📒
+
+This code has been tested and updated until 2023 August 15th. Until this date, some of the libraries have been quite troublesome. The program itself is unnable to understand any language that is not english. Despite some changes on my personal document, the bug seems to be quite ambitious. The version of the code titled as "voice_translator_simple_version.py" is the one version that seems to work properly, since it doesn't consider any language other than english. 
+
+###
+
+I still hope to be part of a project that can make this system actually work and do the good I believe it can for society.
+
 ## Innovative Potentials 🧠
 
 On a bright future, I would like to investigate ways to use this kind of software into corporate tech solutions. I imagine a device with an audio and visual interface that can be used to instantly translate what people are saying. This innovative solution can bring wonders for international relationships professionals.
