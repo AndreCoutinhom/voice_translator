@@ -77,7 +77,7 @@ while True:
 
 ###
 
-## Austin Dobbins' Github and Youtube Channel
+## Austin Dobbins' Github and Youtube Channel 🤖
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ai_Austin" height="250" width="250" src="https://avatars.githubusercontent.com/u/128954893?v=4">
