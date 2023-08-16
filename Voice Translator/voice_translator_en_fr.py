@@ -22,19 +22,13 @@ while True:
         text = r.recognize_google(audio)
         input_language = detect(text)
         
-        if input_language == "pt":
+        if input_language == "en":
             translation = translator.translate(text, dest='fr')
             print(f"Translated to French: {translation.text}")
             # speak the translated text
             tts.say(translation.text)
             tts.runAndWait()
-            
-        elif input_language == "fr":
-            translation = translator.translate(text, dest='pt')
-            print(f"Translated to Portuguese: {translation.text}")
-            # speak the translated text
-            tts.say(translation.text)
-            tts.runAndWait()
+           
         else:
             print("Unsupported language")
     except sr.UnknownValueError:
