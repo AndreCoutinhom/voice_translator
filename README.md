@@ -100,7 +100,63 @@ Besides that, AI_Austin's tutorial has a truly functional code and a much valid 
 
 ## Important notes 📒
 
-This code has been tested and updated until 2023 August 15th. Until this date, some of the libraries have been quite troublesome. The program itself is unnable to understand any language that is not english. Despite some changes on my personal document, the bug seems to be quite ambitious. The version of the code titled as "voice_translator_simple_version.py" is the one version that seems to work properly, since it doesn't consider any language other than english. 
+This program has been tested and updated until 2023 August 15th. Until this date, some of the libraries have been quite troublesome. The program itself is unnable to understand any language that is not english. Despite some changes on my personal document, the bug seems to be quite ambitious. 
+
+###
+
+The document titled as "voice_translator_simple_version.py" is the one version that seems to work properly, since it doesn't consider any language other than english. The version translate any english said line into a portuguese text: 
+
+``` python
+if input_language == "en":
+            translation = translator.translate(text, dest='por')
+            print(f"Translated to Portuguese: {translation.text}")
+            # speak the translated text
+            tts.say(translation.text)
+            tts.runAndWait()
+        else:
+            print("Unsupported language")
+```
+
+##
+
+I have tested with different languages other than portuguese, and it seems to work well. Since I'm using a machine settled to portuguese speaker country, it shows an accent with a non realistic pronunciation, but there are no troubles with de code logic or the libraries. Anyone can use it as an english voice translator by changing the output language. Here are a couple of examples using spanish, japanese and german:
+
+``` python
+if input_language == "en":
+            translation = translator.translate(text, dest='es')
+            print(f"Translated to Portuguese: {translation.text}")
+            # speak the translated text
+            tts.say(translation.text)
+            tts.runAndWait()
+        else:
+            print("Unsupported language")
+```
+
+##
+
+``` python
+if input_language == "en":
+            translation = translator.translate(text, dest='ja')
+            print(f"Translated to Portuguese: {translation.text}")
+            # speak the translated text
+            tts.say(translation.text)
+            tts.runAndWait()
+        else:
+            print("Unsupported language")
+```
+
+##
+
+``` python
+if input_language == "en":
+            translation = translator.translate(text, dest='de')
+            print(f"Translated to Portuguese: {translation.text}")
+            # speak the translated text
+            tts.say(translation.text)
+            tts.runAndWait()
+        else:
+            print("Unsupported language")
+```
 
 ###
 
