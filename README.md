@@ -3,7 +3,7 @@
   
 Voice Translator 
 <div style="display: inline_block"><br>
-  <a href="https://www.artstation.com/artwork/qQ4y5D" target="_blank"><img align="center" width="867" height="512" alt="voice_translator" src="https://img.freepik.com/premium-photo/closeup-gorilla-with-headphones-beepleinspired-style-surrounded-by-highquality-abstract-artwork_561855-3045.jpg"></a>
+  <a href="https://www.artstation.com/artwork/qQ4y5D" target="_blank"><img align="center" width="867" height="502" alt="voice_translator" src="https://img.freepik.com/premium-photo/closeup-gorilla-with-headphones-beepleinspired-style-surrounded-by-highquality-abstract-artwork_561855-3045.jpg"></a>
   </div> 
 
 ###
