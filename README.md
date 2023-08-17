@@ -87,6 +87,10 @@ while True:
   <a href="https://www.youtube.com/@Ai_Austin" target="_blank"><img align="center" height="33" width="123" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div> 
 
+#### Self Proclaimed Description
+
+AI enthusiast and educator, passionate about sharing ideas and knowledge about AI, Python, programming, and technology. Let's learn and grow together!
+
 ## Differences between codes 👨‍💻
 
 There were barely none different coding structure between mine's and Austin's. In fact, the whole code was developed by watching Austin's tutorial. However, following some researches and Chat GPT's orientations through some issues I had to deal with, like code not working, bugs and syntax errors; I couldn't rely entirely on the tutorial, since some of the indicated libraries were not fully updated by the time I wrote the code myself, especially the Google trans API, responsible for the translation algorithm. That's why, on this repository, I have committed a Shell structured prompt list containing the updated version of the Google Trans API as followed below: 
