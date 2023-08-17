@@ -1,14 +1,15 @@
 <h1 align="center">
   <img align="center" alt="lab" height="55" width="55" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
-
+  
 Voice Translator 
+<div style="display: inline_block"><br>
+  <a href="https://www.artstation.com/artwork/qQ4y5D" target="_blank"><img align="center" width="867" height="512" alt="voice_translator" src="https://img.freepik.com/premium-photo/closeup-gorilla-with-headphones-beepleinspired-style-surrounded-by-highquality-abstract-artwork_561855-3045.jpg"></a>
+  </div> 
+
+###
+  
 </h1>
 
-
-
-<div style="display: inline_block"><br>
-  <a href="https://www.artstation.com/artwork/qQ4y5D" target="_blank"><img align="center" alt="voice_translator" src="https://cdnb.artstation.com/p/assets/images/images/058/718/949/large/veysh-veysh-movie-still-professional-photograph-taken-with-canon-eos-855c677b-11fd-41d1-912c-b7ee86c72edc.jpg?1674809943"></a>
-  </div> 
 
   ###
 
