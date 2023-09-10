@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" alt="lab" height="55" width="55" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
+  <img align="center" alt="lab" height="55" width="55" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
   
 Voice Translator 
 <div style="display: inline_block"><br>
