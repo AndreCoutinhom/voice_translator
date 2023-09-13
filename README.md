@@ -109,7 +109,9 @@ This program has been tested and updated until 2023 August 15th. Until this date
 
 ###
 
-The document titled as "voice_translator_simple_version.py" is the one version that seems to work properly, since it doesn't consider any language other than english. The version translate any english said line into a portuguese text: 
+The document titled as "voice_translator_simple_version.py" is the one version that seems to work properly, since it doesn't consider any language other than english. The version translate any english said line into a portuguese: 
+
+* [Simple Version](voice_translator_simple_version.py)
 
 ``` python
 if input_language == "en":
@@ -122,9 +124,10 @@ if input_language == "en":
             print("Unsupported language")
 ```
 
+
 ##
 
-I have tested with different languages other than portuguese, and it seems to work well. Since I'm using a machine settled to portuguese speaker country, it shows an accent with a non realistic pronunciation, but there are no troubles with de code logic or the libraries. Anyone can use it as an english voice translator by changing the output language. Here are a couple of examples using spanish, japanese and german:
+I have tested with different languages other than portuguese, and it seems to work well. Since I'm using a machine settled to portuguese speaker country, it shows an accent with a non realistic pronunciation, but there are no troubles with the code logic or the libraries. Anyone can use it as an english voice translator by changing the output language. Here are a couple of examples using spanish, japanese and german:
 
 ``` python
 if input_language == "en":
